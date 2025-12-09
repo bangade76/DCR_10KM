@@ -7,6 +7,17 @@
       <link href="https://gpx.studio"/>
     </author>
   </metadata>
+  <wpt lat="-7.28504" lon="109.970513">
+    <ele>1757.998300210015</ele>
+    <name>WS 2 | Pintu Rimba</name>
+  </wpt>
+  <wpt lat="0" lon="0">
+    <ele>0</ele>
+  </wpt>
+  <wpt lat="-7.2850535169069275" lon="109.97056034237801">
+    <ele>1758.0300532098868</ele>
+    <name>WS Pintu Rimba</name>
+  </wpt>
   <trk>
     <name>10KM_2026</name>
     <extensions>
